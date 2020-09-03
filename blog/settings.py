@@ -24,7 +24,6 @@ SECRET_KEY = 'f137eb723cc9db53d0b3be73bcc1789796fc366f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-# ALLOWED_HOSTS = ['https://miniblog-skillfactory.herokuapp.com', 'miniblog-skillfactory.herokuapp.com']
 ALLOWED_HOSTS = ['127.0.0.1:8000']
 # Application definition
 
